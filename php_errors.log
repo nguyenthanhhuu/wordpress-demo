@@ -1,0 +1,1 @@
+[15-Jul-2015 06:30:04 UTC] WordPress database error Table 'c9.wp_2_woocommerce_attribute_taxonomies' doesn't exist for query SELECT * FROM wp_2_woocommerce_attribute_taxonomies made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Post_types::register_taxonomies, wc_get_attribute_taxonomies

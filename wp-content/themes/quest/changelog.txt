@@ -1,0 +1,62 @@
+## 1.0.12
+
+* Adds Title and Description options for Gallery Images in Page Builder
+* Adds Icon Link option for Hovericons
+* Fixes Pagebuilder "content" issue by removing the old workaround of using "pt_pb_content"
+
+## 1.0.11
+
+* Changes PageBuilder "content" to use input[type=text] instead of a texture as custom markup in a textarea is filtered by PHP and this will cause the users to lose content
+
+## 1.0.10
+
+* Adds bbpress basic support
+* Fixes incorrect view 'woocommerce'
+* Fixes Text module content escape issue
+
+## 1.0.9
+
+* Changed Javascript variable trPbApp to ptPbApp
+* Wordpress Coding Standards changes
+
+## 1.0.8
+
+* Fixes page builder clone issues
+* Fixes slide padding issue
+* Fixes Reveal Modal close issue in case of multiple modal windows open at the same time
+* Adds Row save functionality for page builder
+* Adds Contact Form 7 styling support
+
+## 1.0.7
+
+* Adds new Row model to Page Builder which allows a section to have multiple rows
+* Code cleanup - All Pagebuilder templates have their own template file now and also a  filter which can be used to overwrite any existing template
+* New filter for Footer copyright text
+
+## 1.0.6
+
+* Fixes issues as per Theme Review
+
+## 1.0.5
+
+* Fixes An incorrect version upload issue
+
+## 1.0.4
+
+* Fixes issues as per Theme Review
+
+## 1.0.3
+
+* Fixes jQuery $ issue for window.partial function
+
+## 1.0.2
+
+* Fixes issues as per Theme Review
+
+## 1.0.1
+
+* Fixes issues as per Theme Review
+
+## 1.0.0
+
+* Initial release
