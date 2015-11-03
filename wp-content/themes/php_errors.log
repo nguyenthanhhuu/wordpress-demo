@@ -1,0 +1,6 @@
+[05-Aug-2015 16:58:39 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/masterstudy/index.php on line 1
+[05-Aug-2015 16:58:39 UTC] PHP Stack trace:
+[05-Aug-2015 16:58:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/masterstudy/index.php:0
+[06-Aug-2015 06:11:02 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/masterstudy/index.php on line 1
+[06-Aug-2015 06:11:02 UTC] PHP Stack trace:
+[06-Aug-2015 06:11:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/masterstudy/index.php:0
